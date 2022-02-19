@@ -4,6 +4,8 @@
 <dict>
 	<key>NSAppTransportSecurity</key>
 	<dict>
+		<key></key>
+		<false/>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
