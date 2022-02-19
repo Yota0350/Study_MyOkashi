@@ -12,6 +12,7 @@
 		9557CBA927C0AF4400A6EC56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9557CBA827C0AF4400A6EC56 /* Assets.xcassets */; };
 		9557CBAC27C0AF4400A6EC56 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9557CBAB27C0AF4400A6EC56 /* Preview Assets.xcassets */; };
 		9557CBB327C0BC6400A6EC56 /* OkashiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9557CBB227C0BC6400A6EC56 /* OkashiData.swift */; };
+		9557CBB827C123C800A6EC56 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9557CBB727C123C800A6EC56 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9557CBAB27C0AF4400A6EC56 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9557CBB227C0BC6400A6EC56 /* OkashiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OkashiData.swift; sourceTree = "<group>"; };
 		9557CBB427C0E39A00A6EC56 /* Study-MyOkashi-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Study-MyOkashi-Info.plist"; sourceTree = SOURCE_ROOT; };
+		9557CBB727C123C800A6EC56 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9557CBB427C0E39A00A6EC56 /* Study-MyOkashi-Info.plist */,
 				9557CBA427C0AF4100A6EC56 /* Study_MyOkashiApp.swift */,
 				9557CBB227C0BC6400A6EC56 /* OkashiData.swift */,
+				9557CBB727C123C800A6EC56 /* SafariView.swift */,
 				9557CBA627C0AF4100A6EC56 /* ContentView.swift */,
 				9557CBA827C0AF4400A6EC56 /* Assets.xcassets */,
 				9557CBAA27C0AF4400A6EC56 /* Preview Content */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9557CBB827C123C800A6EC56 /* SafariView.swift in Sources */,
 				9557CBA727C0AF4100A6EC56 /* ContentView.swift in Sources */,
 				9557CBB327C0BC6400A6EC56 /* OkashiData.swift in Sources */,
 				9557CBA527C0AF4100A6EC56 /* Study_MyOkashiApp.swift in Sources */,
